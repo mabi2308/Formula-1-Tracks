@@ -39,3 +39,10 @@ numpy
 Pillow
 ollama        # optional, only for track facts
 opencv-python # optional, if you use OpenCV for preprocessing
+
+
+
+```
+
+DEMO VIDEO: https://youtu.be/frBz3SLUoXc 
+ 
